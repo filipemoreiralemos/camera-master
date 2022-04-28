@@ -1,4 +1,5 @@
 <h1 align="center">Vintage Camera</h1><br>
+<h2 align="center">Example</h2><br>
 <p align="center">Illustration of vintage style manual camera made with pure CSS<br>
 Live preview: <a href="https://themalni.github.io/camera">Vintage Camera</a><br>
 
